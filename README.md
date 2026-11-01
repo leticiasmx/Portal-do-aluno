@@ -26,8 +26,7 @@ Java 17+ · Spring Boot 4 · Spring Data JPA · PostgreSQL · Bean Validation ·
 ## Acessos
 | O quê | URL |
 |---|---|
-| Tela web | http://localhost:8081 |
-| Swagger | http://localhost:8081/swagger-ui.html |
+| Tela web | https://leticiasmx.github.io/Portal-do-aluno/ |
 
 ## Modelo de dados
 `Turma` **1 ── N** `Aluno` (`@OneToMany` em Turma, `@ManyToOne` em Aluno).
