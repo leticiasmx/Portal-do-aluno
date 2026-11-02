@@ -2,8 +2,7 @@
 
 API REST em Spring Boot para gerenciar **turmas** e **alunos** de uma escola, com tela web integrada ao backend e documentação Swagger.
 
-> 🖥️ **Tela (front-end):** http://localhost:8081 (depois de rodar o projeto)
-> 📄 **Swagger:** http://localhost:8081/swagger-ui.html
+> 🖥️ **Tela (front-end):** https://leticiasmx.github.io/Site-portal-do-aluno/ (depois de rodar o projeto)
 
 ## Tecnologias
 
